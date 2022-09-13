@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "952552982361",
-    "project_id": "app-for-the-society",
-    "storage_bucket": "app-for-the-society.appspot.com"
+    "project_number": "198576818410",
+    "project_id": "raspberry-5a40f",
+    "storage_bucket": "raspberry-5a40f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:952552982361:android:9484cfaecc75604ba22e48",
+        "mobilesdk_app_id": "1:198576818410:android:a8531b2492f23422842f93",
         "android_client_info": {
           "package_name": "csis.programmers.app_for_the_society"
         }
       },
       "oauth_client": [
         {
-          "client_id": "952552982361-36gubppjd9h3e2us2od5teoml1e2ceu0.apps.googleusercontent.com",
+          "client_id": "198576818410-ntf5ihsis9umu7qml8kavjgkqlj0spj7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAmWnBgmtzKQZH7y5hsrcIVorIXv7aUG-I"
+          "current_key": "AIzaSyAZWHo8iIcGpzRqHeSf1gLIrcDnpqTjGXg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "952552982361-36gubppjd9h3e2us2od5teoml1e2ceu0.apps.googleusercontent.com",
+              "client_id": "198576818410-ntf5ihsis9umu7qml8kavjgkqlj0spj7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
